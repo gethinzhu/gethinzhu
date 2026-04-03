@@ -1,6 +1,6 @@
 # Hi there, I'm Gethin Zhu 👋
 
-I am a **Master of Information Technology (Thesis)** candidate at **The University of Western Australia**, specializing in Deep Learning, Computer Vision, and NLP. My current research focuses on **3D Point Cloud Denoising**, with a research paper currently in the submission process for a **core AI conference**. 
+I am a **Master of Information Technology** student at **The University of Western Australia**, specializing in Deep Learning, Computer Vision, and NLP. My current research focuses on **3D Point Cloud Denoising**, with a research paper currently in the submission process for a **core AI conference**. 
 
 I am actively seeking **PhD or Research Assistant** opportunities to contribute to cutting-edge AI research.
 
