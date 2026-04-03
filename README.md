@@ -1,42 +1,43 @@
 # Hi there, I'm Gethin Zhu 👋
 
-I am a **Master of Information Technology with thesis** student, specializing in Deep Learning, Computer Vision, and NLP. My current research focus on 3D Point Cloud Denoising, with a research paper in the submission process for a core AI conference. I am looking for PhD or Research Assistant opportunities.
+I am a **Master of Information Technology (Thesis)** candidate at **The University of Western Australia**, specializing in Deep Learning, Computer Vision, and NLP. My current research focuses on **3D Point Cloud Denoising**, with a research paper currently in the submission process for a **core AI conference**. 
 
-### 🎓 Education & Focus
+I am actively seeking **PhD or Research Assistant** opportunities to contribute to cutting-edge AI research.
 
-- 🏛️ **Master of IT** | The University of Western Australia (Current)
-- ⚙️ **B.Eng. in Mechatronics Engineering** | Donghua University (Shanghai)
+---
 
-🛠️ Tech Stack
-Core Programming & AI Research
-Languages: Python (Proficient), C++, C#, SQL, Java, R, C
+### 🎓 Education & Research
 
-AI & Deep Learning: PyTorch, Pytorch3D, TensorFlow, Computer Vision (Point Clouds & Images), NLP (Transformers, Word2Vec)
+* 🏛️ **Master of IT (Thesis Stream)** | The University of Western Australia *(In Progress)*
+* ⚙️ **B.Eng. in Mechatronics Engineering** | Donghua University (Shanghai)
+* 🔍 **Research Area**: 3D Geometry Processing, Deep Learning-based Denoising, and Point Cloud Analysis.
 
-Data Science: Power BI, Pandas, NumPy, Matplotlib, MATLAB, LaTeX
+---
 
-Software & Web Development
-Back End: Django, Flask
+### 🛠️ Tech Stack
 
-Front End: React, HTML5, CSS3, JavaScript (jQuery, AJAX)
+#### **Core Programming & AI Research**
+* **Languages**: Python (Proficient), C++, C#, SQL, Java, R, C
+* **AI & Deep Learning**: PyTorch, Pytorch3D, TensorFlow, Computer Vision (Point Clouds & Images), NLP (Transformers, Word2Vec)
+* **Data Science**: Power BI, Pandas, NumPy, Matplotlib, MATLAB, LaTeX
 
-UI Styling: Tailwind CSS, Bootstrap
+#### **Software & Web Development**
+* **Back End**: Django, Flask
+* **Front End**: React, HTML5, CSS3, JavaScript (jQuery, AJAX)
+* **UI Styling**: Tailwind CSS, Bootstrap
+* **Database & DevOps**: MySQL, MongoDB, SQLite | **Docker**, Azure, AWS, Git/GitHub
 
-Database: MySQL, MongoDB, SQLite
+#### **Engineering & 3D Simulation**
+* **3D & VR**: Unity (VR Development), MeshLab
+* **Mechanical Modeling**: SolidWorks, AutoCAD, Siemens NX, PTC Creo
+* **Embedded Systems**: Altium Designer (PCB), Keil µVision, LabVIEW, Proteus, Multisim
 
-Cloud & DevOps: Docker, Azure, AWS, Git/GitHub
-
-Engineering & 3D Simulation
-3D & VR: Unity (VR Development), MeshLab
-
-Mechanical Modeling: SolidWorks, AutoCAD, Siemens NX, PTC Creo
-
-Embedded Systems: Altium Designer (PCB), Keil µVision, LabVIEW, Proteus, Multisim
+---
 
 ### 📫 Get in Touch
 
-- **LinkedIn**: [Gethin Zhu](https://www.linkedin.com/in/gethin-zhu-76aa0631a/)
-- **Email**: [gethinzhu@gmail.com]
+* **LinkedIn**: [Gethin Zhu](https://www.linkedin.com/in/gethin-zhu-76aa0631a/)
+* **Email**: [gethinzhu@gmail.com](mailto:gethinzhu@gmail.com)
 
 ---
-*"Aspire to inspire until I expire"*
+> *"Aspire to inspire until I expire"*
