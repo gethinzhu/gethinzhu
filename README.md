@@ -1,6 +1,6 @@
 # Hi there, I'm Gethin Zhu 👋
 
-I am a **Master of Information Technology with thesis** student at UWA, specializing in Deep Learning, Computer Vision, and NLP. My current research focus on 3D Point Cloud Denoising, with a research paper in the submission process for a core AI conference. I am looking for PhD or Research Assistant opportunities.
+I am a **Master of Information Technology with thesis** student, specializing in Deep Learning, Computer Vision, and NLP. My current research focus on 3D Point Cloud Denoising, with a research paper in the submission process for a core AI conference. I am looking for PhD or Research Assistant opportunities.
 
 ### 🎓 Education & Focus
 
