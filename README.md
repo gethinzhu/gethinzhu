@@ -8,7 +8,7 @@ I am actively seeking **PhD or Research Assistant** opportunities to contribute 
 
 ### 🎓 Education & Research
 
-* 🏛️ **Master of IT (Thesis Stream)** | The University of Western Australia *(In Progress)*
+* 🏛️ **Master of IT (with Thesis)** | The University of Western Australia *(In Progress)*
 * ⚙️ **B.Eng. in Mechatronics Engineering** | Donghua University (Shanghai)
 * 🔍 **Research Area**: 3D Geometry Processing, Deep Learning-based Denoising, and Point Cloud Analysis.
 
